@@ -5,5 +5,5 @@ double func(int a,int b){
     return pow(a,2)+2*(pow(a,2)+pow(b,2))/(4*a);
 }
 void main() {
-    print(func(10,4));
+    print(func(3,1));
 }
